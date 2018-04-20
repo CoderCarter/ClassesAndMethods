@@ -1,0 +1,7 @@
+c:\users\carter\source\repos\ClassDrill\ClassDrill\bin\Debug\ClassDrill.exe.config
+c:\users\carter\source\repos\ClassDrill\ClassDrill\bin\Debug\ClassDrill.exe
+c:\users\carter\source\repos\ClassDrill\ClassDrill\bin\Debug\ClassDrill.pdb
+c:\users\carter\source\repos\ClassDrill\ClassDrill\obj\Debug\ClassDrill.csprojResolveAssemblyReference.cache
+c:\users\carter\source\repos\ClassDrill\ClassDrill\obj\Debug\ClassDrill.csproj.CoreCompileInputs.cache
+c:\users\carter\source\repos\ClassDrill\ClassDrill\obj\Debug\ClassDrill.exe
+c:\users\carter\source\repos\ClassDrill\ClassDrill\obj\Debug\ClassDrill.pdb
